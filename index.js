@@ -231,11 +231,12 @@ const runMain = async () => {
         case "Update an employee's role":
             updateEmployeeRole();
             break;
-        default: 
-            keepLooping = false;
+        case "Quit":
+            // keepLooping = false;
             console.log("\nThank you for using the Employee Management System\n");
             db.end();
             break;
+        default: 
         }
 }
 
