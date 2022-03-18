@@ -7,10 +7,11 @@
 - This application requires the installation of Node.js.  Once you have installed Node.js, open the terminal and enter the command `npm install` which will install all the dependencies in the package.json.
 
 ## Usage
-- Run `node index.js` in the command console.
+- ``` npm run start ```
+- Answer the prompts
 
 ## How to Contribute
-- This is just a school homework assignment, but if you would like to contact to me about it message me on GitHub.
+- This is just a school homework assignment, but if you would like to contact to me about it message me on GitHub.  it's still not working but I am working on why.
 
 ## Tests
 - There are no tests.
